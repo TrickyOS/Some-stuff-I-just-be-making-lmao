@@ -1,6 +1,6 @@
 @import url(https://Timtaran.github.io/minecraft.ttf);
 :root {
---Chat-Font-Used: 'Minecraft Rus Regular', Rus ;
+--Chat-Font-Used: 'Fuzzy Bubbles', Rus ;
 --Chat-Font-Size: 8px;
 }
 :not([class="hljs"]):not(code){
