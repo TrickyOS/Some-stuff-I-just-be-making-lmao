@@ -1,0 +1,21 @@
+return{
+	["Players"] = game:GetService("Players");
+	["Lighting"] = game:GetService("Lighting");
+	["MaterialService"] = game:GetService("MaterialService");
+	["ReplicatedFirst"] = game:GetService("ReplicatedFirst");
+	["ReplicatedStorage"] = game:GetService("ReplicatedStorage");
+	["StarterGui"] = game:GetService("StarterGui");
+	["StarterPack"] = game:GetService("StarterPack");
+	["StarterPlayer"] = {
+		["__self"] = game:GetService("StarterPlayer");
+		["StarterCharacterScripters"] = game:GetService("StarterPlayer").StarterCharacterScripts;
+		["StarterPlayerScripts"] = game:GetService("StarterPlayer").StarterPlayerScripts;};
+	["Teams"] = game:GetService("Teams");
+	["SoundService"] = game:GetService("SoundService");
+	["TextChatService"] = game:GetService("TextChatService");
+	["ContextActionService"] = game:GetService("ContextActionService");
+	["Debris"] = game:GetService("Debris");
+	["GuiService"] = game:GetService("GuiService");
+	["HttpService"] = game:GetService("HttpService");
+	["Run Service"] = game:GetService("RunService");
+	["UserInputService"] = game:GetService("UserInputService");}
