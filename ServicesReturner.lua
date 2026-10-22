@@ -33,4 +33,5 @@ return{
 	["UserService"] = game:GetService("UserService");
 	["MessagingService"] = game:GetService("MessagingService");
 	["DataStoreService"] = game:GetService("DataStoreService");
-	["TweenService"] = game:GetService("TweenService");}
+	["TweenService"] = game:GetService("TweenService");
+	["Debris"] = game:GetService("Debris");}
