@@ -28,9 +28,8 @@ return{
 			return game:GetService("VoiceChatService")
 		elseif Needed == false then
 			return "VoiceChatService" end end)();
-	["Misc"] = {
-		["Run Service"] = game:GetService("RunService");
-		["UserInputService"] = game:GetService("UserInputService");
-		["UserService"] = game:GetService("UserService");
-		["MessagingService"] = game:GetService("MessagingService");
-		["DataStoreService"] = game:GetService("DataStoreService");};}
+	["RunService"] = game:GetService("RunService");
+	["UserInputService"] = game:GetService("UserInputService");
+	["UserService"] = game:GetService("UserService");
+	["MessagingService"] = game:GetService("MessagingService");
+	["DataStoreService"] = game:GetService("DataStoreService");}
