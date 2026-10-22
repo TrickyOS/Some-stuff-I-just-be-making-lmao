@@ -32,4 +32,5 @@ return{
 	["UserInputService"] = game:GetService("UserInputService");
 	["UserService"] = game:GetService("UserService");
 	["MessagingService"] = game:GetService("MessagingService");
-	["DataStoreService"] = game:GetService("DataStoreService");}
+	["DataStoreService"] = game:GetService("DataStoreService");
+	["TweenService"] = game:GetService("TweenService");}
